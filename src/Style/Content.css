@@ -1,0 +1,54 @@
+.div-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  height: 200%;
+  gap: 15px;
+}
+
+.content {
+    width: 20%;
+    height: 70%;
+    background-color: rgb(216, 215, 215);
+    margin-top: 15px;
+    border-radius: 12px;
+}
+
+.img {
+    width: 100%;
+    height: 30%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.h3 {
+    margin-left: 10px;
+}
+
+.h4 {
+    margin-left: 10px;
+    font-family: sans-serif;
+    margin-top: 10px;
+
+}
+
+.button-delete {
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 5px;
+    font-family: sans-serif;
+    font-weight: 600;
+    background-color: rgb(148, 145, 145);
+    color: white;
+    border:  rgb(148, 145, 145);
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.div-button {
+    margin-top: 3px;
+}
+
+.button-edit {
+    text-decoration: none;
+    color: white;
+}

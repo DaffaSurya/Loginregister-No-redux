@@ -1,0 +1,33 @@
+.div-input {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    background-color: #444;
+    height: 50%;
+    gap: 10px;
+    padding: 25px;
+    margin-top: 40px;
+    color: white;
+}
+
+.input {
+    height: 25px;
+}
+
+.button {
+    height: 30px;
+    margin-top: 15px;
+    background-color: #333;
+    color: white;
+    border: solid 2px #333;
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+.div-content-register {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+

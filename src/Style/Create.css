@@ -1,0 +1,34 @@
+.input-content {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    gap: 3px;
+    background-color: rgb(218, 213, 213);
+    padding: 12px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.Input-create {
+    height: 20px;
+    margin-top: 5px;
+}
+
+.button-create {
+   display: flex;
+   justify-content: space-around;
+   margin-top: 16px;
+}
+
+.tombol {
+    padding: 4px;
+    background-color: #555;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.create {
+    display: flex;
+    justify-content: center;
+}
